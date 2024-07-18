@@ -632,9 +632,6 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 fill: #ffffff
 }
 
-.form-modal-input{
-   margin-bottom: 8px;
-}
 
 .form-label{
    font-size: 12px;
@@ -673,4 +670,6 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 fill: #4D5AE5;
 }
 
-
+.input:focus+svg {
+border-color: #4D5AE5;
+}

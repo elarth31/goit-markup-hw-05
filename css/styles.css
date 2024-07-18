@@ -657,6 +657,10 @@ fill: #ffffff
    border-color: #4D5AE5;
 }
 
+.modal-field{
+   margin-bottom: 8px;
+}
+
 .modal-field-wrap{
    position: relative;
 }

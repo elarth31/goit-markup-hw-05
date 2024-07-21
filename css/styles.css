@@ -766,6 +766,7 @@ border-color: #4D5AE5;
    align-items: center;
    justify-content: center;
    fill: transparent;
+   margin-right: 8px;
 }
 
 .modal-checkbox:checked + .label-checkbox > .custom-checkbox{ 
@@ -782,7 +783,6 @@ border-color: #4D5AE5;
    display: block;
    min-width: 169px;
    height: 56px;
-  
    font-size: 16px;
    font-weight: 500;
    line-height: 1.5;
